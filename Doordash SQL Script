@@ -1,0 +1,105 @@
+
+WITH table_1 AS(
+SELECT * FROM(
+SELECT driver_id,
+       restaurant_id,
+       consumer_id as customer_id,
+       location,
+       is_asap,
+       order_total,
+       amount_of_discount,
+       amount_of_tip,
+       refunded_amount,
+       trt__cp__op_minutes,
+       trt__op__dr_minutes,
+       trt__dr__dc_minutes,
+       total_trt,
+       same_day_order,
+       total_days_trt
+FROM sjuanpablo.Doordash)
+),
+table_2 AS(
+SELECT
+location,
+COUNT((is_asap)) count_asap_order
+FROM sjuanpablo.Doordash
+#WHERE is_asap = TRUE 
+WHERE is_asap = FALSE
+GROUP BY 1
+),
+table_3 AS(
+SELECT
+location,
+COUNT(consumer_id) as count_orders_out_of_TRT
+FROM sjuanpablo.Doordash
+WHERE total_trt > 45
+GROUP BY 1
+),
+table_4 AS(
+SELECT
+location,
+SUM(refunded_amount) as refunded
+FROM sjuanpablo.Doordash
+GROUP BY 1
+),
+table_5 AS(
+SELECT
+restaurant_id,
+location,
+ROUND(SUM(order_total)) as total_order_res
+FROM sjuanpablo.Doordash
+GROUP BY 1,2
+),
+table_6 AS(
+SELECT
+       location,
+       ROUND(AVG(total_trt),2) as average_trt
+FROM sjuanpablo.Doordash
+WHERE location != 'None'
+GROUP BY 1),
+table_7 AS(
+SELECT
+       location,
+       ROUND(AVG(trt__dr__dc_minutes),2)
+FROM sjuanpablo.Doordash
+WHERE location != 'None' AND trt__dr__dc_minutes BETWEEN 0 AND 300
+GROUP BY 1),
+table_8 AS(
+SELECT
+       consumer_id,
+       COUNT(order_total) count_order_total,
+       round(SUM(order_total)) as total_order_sum
+FROM sjuanpablo.Doordash
+GROUP BY 1),
+table_9 AS(
+SELECT
+       driver_id,
+       ROUND(AVG(trt__op__dr_minutes)) Waiting_at_restaurant,
+       ROUND(AVG(trt__dr__dc_minutes)) as delivery,
+       COUNT(consumer_id) as count_client
+FROM sjuanpablo.Doordash
+WHERE trt__op__dr_minutes BETWEEN 1 AND 300 AND trt__dr__dc_minutes BETWEEN 0 AND 300
+GROUP BY 1
+ORDER BY ROUND(AVG(trt__dr__dc_minutes)) DESC)
+
+
+
+SELECT
+DISTINCT(table_6.location),
+average_trt
+#DISTINCT(table_5.restaurant_id),
+#table_5.location,
+#total_order_res
+#table_1.location,
+#refunded
+#(count_asap_order)
+FROM table_1
+LEFT JOIN table_2 ON table_1.location = table_2.location
+LEFT JOIN table_3 ON table_1.location = table_3.location
+LEFT JOIN table_4 ON table_1.location = table_4.location
+LEFT JOIN table_5 ON table_1.location = table_5.location
+LEFT JOIN table_6 ON table_1.location = table_6.location
+LEFT JOIN table_7 ON table_1.location = table_7.location
+LEFT JOIN table_8 ON table_1.customer_id = table_8.consumer_id
+LEFT JOIN table_9 ON table_1.driver_id = table_9.driver_id
+LIMIT 3
