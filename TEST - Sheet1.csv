@@ -1,0 +1,865 @@
+scr.region,category,Coverage,Weekly budget,Weekly_budget * No_of_pros,Avg_leads-per_week,Price_per_lead
+Albuquerque,electrician,4,938,"$3,752",17,17
+Albuquerque,plumber,11,2312,"$25,432",98,22
+Albuquerque,hvac,12,498,"$5,976",44,25
+Albuquerque,carpet_cleaning,1,50,$50,0,0
+Albuquerque,house_cleaner,3,263,$789,26,16
+Atlanta,hvac,48,1784,"$85,632",322,24
+Atlanta,electrician,27,1652,"$44,604",199,15
+Atlanta,plumber,40,6317,"$252,680",570,21
+Atlanta,garage_door_pro,29,1356,"$39,324",212,15
+Atlanta,locksmith,50,67705,"$3,385,250",1448,10
+Atlanta,carpet_cleaning,34,7496,"$254,864",154,22
+Atlanta,appliance_repair,18,1558,"$28,044",253,25
+Atlanta,window_repair,5,305,"$1,525",44,24
+Atlanta,water_damage,32,9894,"$316,608",25,75
+Atlanta,tree_service,14,740,"$10,360",78,27
+Atlanta,air_duct_cleaner,1,220,$220,0,0
+Atlanta,window_cleaner,14,108,"$1,512",25,19
+Atlanta,house_cleaner,34,294,"$9,996",188,19
+Atlanta,roofer,31,808,"$25,048",109,35
+Atlanta,mover,6,628,"$3,768",57,37
+Atlanta,lawn_care,16,178,"$2,848",37,19
+Atlanta,pest_control,33,5307,"$175,131",297,35
+Atlanta,windshield_repair_pro,1,300,$300,0,0
+Austin,hvac,44,4174,"$183,656",117,28
+Austin,carpet_cleaning,9,645,"$5,805",54,25
+Austin,tree_service,7,1852,"$12,964",39,31
+Austin,pest_control,11,2683,"$29,513",89,34
+Austin,lawn_care,2,2966,"$5,932",0,0
+Austin,garage_door_pro,8,1490,"$11,920",78,24
+Austin,electrician,7,942,"$6,594",51,20
+Austin,roofer,17,555,"$9,435",38,29
+Austin,plumber,23,3425,"$78,775",284,28
+Austin,house_cleaner,11,91471,"$1,006,181",109,22
+Austin,locksmith,5,1782,"$8,910",422,13
+Austin,mover,8,1383,"$11,064",138,39
+Austin,window_cleaner,0,0,$0,0,0
+Baltimore,hvac,27,1847,"$49,869",84,26
+Baltimore,plumber,27,37183,"$1,003,941",256,25
+Baltimore,locksmith,9,2937,"$26,433",331,10
+Baltimore,carpet_cleaning,12,343,"$4,116",47,26
+Baltimore,pest_control,14,7124,"$99,736",142,34
+Baltimore,water_damage,12,3626,"$43,512",10,80
+Baltimore,electrician,10,1112,"$11,120",75,19
+Baltimore,roofer,13,704,"$9,152",35,56
+Baltimore,house_cleaner,16,62696,"$1,003,136",85,21
+Baltimore,garage_door_pro,1,5000,"$5,000",14,12
+Baltimore,lawn_care,4,809,"$3,236",0,0
+Baltimore,mover,1,400,$400,16,39
+Baltimore,window_cleaner,3,133,$399,0,0
+Baton Rouge,hvac,9,2264,"$20,376",34,30
+Baton Rouge,house_cleaner,1,160,$160,0,15
+Baton Rouge,appliance_repair,1,2040,"$2,040",0,0
+Baton Rouge,electrician,1,0,$0,0,0
+Birmingham,roofer,9,3226,"$29,034",42,29
+Birmingham,plumber,7,3089,"$21,623",108,25
+Birmingham,hvac,26,4311,"$112,086",126,26
+Birmingham,house_cleaner,1,200,$200,5,15
+Birmingham,carpet_cleaning,1,500,$500,0,0
+Birmingham,electrician,3,471,"$1,413",32,17
+Birmingham,window_cleaner,1,0,$0,0,0
+Birmingham,lawn_care,1,0,$0,0,0
+Boise,hvac,10,2024,"$20,240",35,27
+Boise,carpet_cleaning,2,1353,"$2,706",27,25
+Boise,house_cleaner,7,169,"$1,183",32,15
+Boise,plumber,3,1800,"$5,400",1,30
+Boise,roofer,2,105,$210,0,0
+Boston,mover,11,1308,"$14,388",112,37
+Boston,hvac,23,953,"$21,919",70,22
+Boston,plumber,28,2692,"$75,376",215,21
+Boston,electrician,16,944,"$15,104",38,15
+Boston,water_damage,4,375,"$1,500",0,0
+Boston,locksmith,15,7606,"$114,090",238,10
+Boston,pest_control,18,3995,"$71,910",94,36
+Boston,carpet_cleaning,6,3988,"$23,928",25,23
+Boston,house_cleaner,6,367,"$2,202",34,18
+Boston,roofer,23,504,"$11,592",34,35
+Boston,garage_door_pro,3,1039,"$3,117",27,20
+Boston,air_duct_cleaner,2,1083,"$2,166",0,0
+Boston,window_cleaner,1,250,$250,0,0
+Boston,window_repair,1,184,$184,0,0
+Boston,appliance_repair,1,63,$63,0,0
+Champaign-Springfield,hvac,3,1267,"$3,801",5,22
+Champaign-Springfield,carpet_cleaning,1,0,$0,0,0
+Charleston,carpet_cleaning,2,88,$176,0,0
+Charleston,plumber,3,843,"$2,529",62,32
+Charleston,house_cleaner,4,209,$836,1,18
+Charleston,hvac,17,996,"$16,932",52,32
+Charleston,pest_control,2,136,$272,0,0
+Charleston,window_cleaner,2,0,$0,0,0
+Charleston,lawn_care,1,0,$0,0,0
+Charlotte,mover,6,613,"$3,678",75,38
+Charlotte,garage_door_pro,19,1750,"$33,250",77,12
+Charlotte,carpet_cleaning,6,172,"$1,032",34,22
+Charlotte,water_damage,10,3026,"$30,260",8,75
+Charlotte,plumber,13,79575,"$1,034,475",220,25
+Charlotte,hvac,50,1629,"$81,450",115,24
+Charlotte,house_cleaner,13,157,"$2,041",56,18
+Charlotte,electrician,6,242,"$1,452",72,18
+Charlotte,roofer,8,550,"$4,400",17,40
+Charlotte,locksmith,5,2141,"$10,705",374,10
+Charlotte,pest_control,7,1765,"$12,355",69,36
+Charlotte,lawn_care,5,60,$300,0,0
+Charlotte,window_cleaner,4,159,$636,0,0
+Chattanooga,electrician,1,150,$150,8,13
+Chattanooga,hvac,10,444,"$4,440",56,22
+Chattanooga,lawn_care,1,50,$50,4,12
+Chattanooga,roofer,0,0,$0,0,29
+Chicago,hvac,111,10449,"$1,159,839",215,24
+Chicago,electrician,15,602,"$9,030",81,18
+Chicago,plumber,47,2871,"$134,937",454,25
+Chicago,roofer,40,289,"$11,560",93,29
+Chicago,carpet_cleaning,23,229,"$5,267",68,21
+Chicago,window_cleaner,9,214,"$1,926",36,11
+Chicago,locksmith,11,38556,"$424,116",804,13
+Chicago,house_cleaner,14,71602,"$1,002,428",140,22
+Chicago,appliance_repair,1,208,$208,0,0
+Chicago,window_repair,15,373,"$5,595",36,32
+Chicago,garage_door_pro,25,1997,"$49,925",148,20
+Chicago,lawn_care,3,55,$165,0,0
+Chicago,tree_service,5,1049,"$5,245",66,22
+Chicago,pest_control,17,6808,"$115,736",176,35
+Chicago,water_damage,14,5435,"$76,090",15,109
+Chicago,mover,11,845,"$9,295",196,39
+Chicago,upholstery_cleaner,1,205,$205,0,0
+Cincinnati,hvac,19,424,"$8,056",76,25
+Cincinnati,garage_door_pro,1,1000,"$1,000",23,12
+Cincinnati,house_cleaner,7,143014,"$1,001,098",53,16
+Cincinnati,plumber,11,3050,"$33,550",179,22
+Cincinnati,electrician,4,408,"$1,632",50,14
+Cincinnati,lawn_care,2,40,$80,0,0
+Cincinnati,mover,2,159,$318,9,39
+Cincinnati,locksmith,8,1273,"$10,184",305,10
+Cincinnati,pest_control,4,2858,"$11,432",60,34
+Cincinnati,roofer,8,617,"$4,936",44,40
+Cincinnati,carpet_cleaning,1,1100,"$1,100",24,23
+Cleveland-Akron,carpet_cleaning,7,161,"$1,127",31,16
+Cleveland-Akron,hvac,19,320,"$6,080",78,23
+Cleveland-Akron,plumber,25,3203,"$80,075",221,21
+Cleveland-Akron,garage_door_pro,2,922,"$1,844",48,34
+Cleveland-Akron,electrician,6,301,"$1,806",51,16
+Cleveland-Akron,locksmith,2,3000,"$6,000",245,12
+Cleveland-Akron,pest_control,3,10000,"$30,000",0,34
+Cleveland-Akron,window_cleaner,1,0,$0,0,0
+Cleveland-Akron,lawn_care,1,0,$0,0,0
+Colorado Springs,carpet_cleaning,7,143079,"$1,001,553",56,18
+Colorado Springs,hvac,13,791,"$10,283",67,30
+Colorado Springs,house_cleaner,4,134,$536,3,19
+Colorado Springs,plumber,3,6709,"$20,127",71,23
+Colorado Springs,roofer,8,189,"$1,512",35,29
+Colorado Springs,water_damage,1,10000,"$10,000",0,0
+Colorado Springs,electrician,1,0,$0,0,0
+Colorado Springs,lawn_care,1,0,$0,0,0
+"Columbia, SC",plumber,4,3875,"$15,500",87,25
+"Columbia, SC",hvac,10,1671,"$16,710",47,28
+"Columbia, SC",roofer,4,214,$856,10,29
+"Columbia, SC",electrician,2,552,"$1,104",23,13
+"Columbia, SC",house_cleaner,1,120,$120,0,0
+"Columbia, SC",mover,1,240,$240,0,48
+Columbus,hvac,26,1234,"$32,084",74,27
+Columbus,plumber,11,2853,"$31,383",200,24
+Columbus,garage_door_pro,3,221,$663,49,21
+Columbus,carpet_cleaning,5,223,"$1,115",13,13
+Columbus,locksmith,2,785,"$1,570",264,13
+Columbus,roofer,11,596,"$6,556",65,47
+Columbus,electrician,5,438,"$2,190",60,15
+Columbus,house_cleaner,7,579,"$4,053",34,15
+Columbus,pest_control,1,10000,"$10,000",0,34
+Columbus,water_damage,1,550,$550,0,0
+Columbus,window_cleaner,1,0,$0,0,0
+"Corpus Christi, TX",hvac,8,597,"$4,776",35,26
+Dallas,house_cleaner,32,395,"$12,640",293,21
+Dallas,hvac,170,8015,"$1,362,550",298,25
+Dallas,air_duct_cleaner,1,300,$300,0,0
+Dallas,water_damage,26,2912,"$75,712",32,76
+Dallas,carpet_cleaning,26,2828,"$73,528",174,22
+Dallas,electrician,34,2224,"$75,616",233,18
+Dallas,locksmith,40,6149,"$245,960",1929,10
+Dallas,plumber,62,19002,"$1,178,124",824,25
+Dallas,car_repair,28,562,"$15,736",165,23
+Dallas,mover,16,923,"$14,768",368,36
+Dallas,garage_door_pro,28,3208,"$89,824",276,24
+Dallas,appliance_repair,6,269,"$1,614",76,20
+Dallas,roofer,61,1157,"$70,577",203,32
+Dallas,pest_control,41,2362,"$96,842",326,35
+Dallas,window_cleaner,19,490,"$9,310",60,18
+Dallas,event_planner,6,50,$300,9,12
+Dallas,photographer,8,62,$496,41,14
+Dallas,tree_service,11,288,"$3,168",48,22
+Dallas,window_repair,19,736,"$13,984",132,27
+Dallas,pet_boarding,5,184,$920,19,14
+Dallas,lawn_care,13,362,"$4,706",155,16
+Dallas,pet_grooming,4,93,$372,24,9
+Dallas,handyman,1,144,$144,0,0
+Dallas,upholstery_cleaner,1,228,$228,0,0
+Dallas,windshield_repair_pro,4,1424,"$5,696",0,0
+Dayton,hvac,6,470,"$2,820",25,30
+Dayton,plumber,5,4084,"$20,420",55,22
+Dayton,house_cleaner,2,125,$250,10,15
+Dayton,carpet_cleaning,1,50,$50,0,0
+Dayton,roofer,10,301,"$3,010",30,29
+Dayton,window_repair,2,234,$468,0,0
+Dayton,lawn_care,1,0,$0,0,0
+Dayton,window_cleaner,1,0,$0,0,0
+Denver,mover,10,486,"$4,860",110,39
+Denver,garage_door_pro,25,81740,"$2,043,500",129,12
+Denver,window_repair,7,746,"$5,222",17,33
+Denver,roofer,24,926,"$22,224",53,40
+Denver,carpet_cleaning,14,715,"$10,010",67,22
+Denver,hvac,43,2818,"$121,174",155,26
+Denver,electrician,22,8692,"$191,224",104,19
+Denver,plumber,26,5770,"$150,020",354,26
+Denver,locksmith,14,153058,"$2,142,812",711,13
+Denver,house_cleaner,18,55901,"$1,006,218",110,21
+Denver,water_damage,17,3830,"$65,110",16,95
+Denver,window_cleaner,8,162,"$1,296",25,11
+Denver,pest_control,10,5468,"$54,680",70,39
+Denver,tree_service,2,708,"$1,416",33,27
+Denver,appliance_repair,3,86,$258,29,19
+Denver,air_duct_cleaner,1,63,$63,0,0
+Denver,lawn_care,1,0,$0,0,0
+Des Moines,electrician,3,1555,"$4,665",25,18
+Des Moines,plumber,5,505,"$2,525",0,20
+Des Moines,hvac,12,736,"$8,832",27,25
+Des Moines,roofer,4,253,"$1,012",7,35
+Des Moines,house_cleaner,2,314,$628,0,12
+Des Moines,lawn_care,1,0,$0,0,0
+Detroit,garage_door_pro,11,3938,"$43,318",101,22
+Detroit,plumber,17,2391,"$40,647",470,23
+Detroit,locksmith,6,1133,"$6,798",432,10
+Detroit,electrician,6,678,"$4,068",39,14
+Detroit,lawn_care,2,260,$520,0,0
+Detroit,tree_service,3,223,$669,4,15
+Detroit,hvac,29,1546,"$44,834",147,23
+Detroit,carpet_cleaning,4,378,"$1,512",27,22
+Detroit,house_cleaner,9,592,"$5,328",30,16
+Detroit,water_damage,10,1144,"$11,440",7,80
+Detroit,mover,3,528,"$1,584",27,33
+Detroit,pest_control,6,9757,"$58,542",135,38
+Detroit,roofer,15,759,"$11,385",34,55
+Detroit,window_cleaner,2,125,$250,0,0
+Detroit,window_repair,1,880,$880,0,0
+El Paso,hvac,8,344,"$2,752",51,28
+El Paso,plumber,1,90,$90,0,0
+El Paso,roofer,1,105,$105,2,29
+Fresno,hvac,13,1646,"$21,398",33,22
+Fresno,house_cleaner,3,407,"$1,221",13,12
+Fresno,carpet_cleaning,3,550,"$1,650",15,16
+Fresno,plumber,8,802,"$6,416",78,21
+Ft. Myers-Naples,house_cleaner,8,957,"$7,656",45,20
+Ft. Myers-Naples,hvac,24,2314,"$55,536",75,35
+Ft. Myers-Naples,plumber,15,4991,"$74,865",150,32
+Ft. Myers-Naples,carpet_cleaning,3,222,$666,28,23
+Ft. Myers-Naples,electrician,5,933,"$4,665",50,25
+Ft. Myers-Naples,window_cleaner,2,72,$144,0,0
+Ft. Myers-Naples,roofer,5,442,"$2,210",37,35
+Ft. Myers-Naples,locksmith,2,75,$150,2,12
+Ft. Myers-Naples,lawn_care,6,167,"$1,002",2,15
+Ft. Myers-Naples,pest_control,4,5100,"$20,400",7,39
+Ft. Myers-Naples,water_damage,2,1260,"$2,520",0,0
+Grand Rapids/Kalamazoo,hvac,17,722,"$12,274",57,28
+Grand Rapids/Kalamazoo,electrician,2,2715,"$5,430",32,17
+Grand Rapids/Kalamazoo,plumber,6,4360,"$26,160",115,22
+Grand Rapids/Kalamazoo,house_cleaner,3,236,$708,1,12
+Grand Rapids/Kalamazoo,carpet_cleaning,1,2482,"$2,482",4,17
+Grand Rapids/Kalamazoo,roofer,8,1049,"$8,392",20,55
+Grand Rapids/Kalamazoo,lawn_care,1,0,$0,0,0
+Greensboro,hvac,13,1354,"$17,602",49,27
+Greensboro,electrician,3,1507,"$4,521",23,14
+Greensboro,plumber,5,1009,"$5,045",111,22
+Greensboro,house_cleaner,5,660,"$3,300",30,16
+Greensboro,roofer,7,300,"$2,100",15,29
+Greenville-Spartanburg,hvac,17,1102,"$18,734",74,28
+Greenville-Spartanburg,plumber,13,2006,"$26,078",127,27
+Greenville-Spartanburg,water_damage,1,1150,"$1,150",0,0
+Greenville-Spartanburg,electrician,5,2464,"$12,320",36,20
+Greenville-Spartanburg,house_cleaner,3,233,$699,17,14
+Greenville-Spartanburg,lawn_care,2,100,$200,0,0
+Greenville-Spartanburg,locksmith,1,500,$500,0,0
+Greenville-Spartanburg,pest_control,1,10000,"$10,000",0,0
+Greenville-Spartanburg,window_cleaner,2,245,$490,0,0
+Greenville-Spartanburg,roofer,2,298,$596,13,35
+Greenville-Spartanburg,window_repair,1,490,$490,0,0
+Greenville-Spartanburg,tree_service,1,150,$150,0,0
+Hamilton,hvac,1,1500,"$1,500",1,30
+Harrisburg/Lancaster/York,carpet_cleaning,3,119,$357,0,0
+Harrisburg/Lancaster/York,plumber,13,1425,"$18,525",127,22
+Harrisburg/Lancaster/York,hvac,19,697,"$13,243",47,27
+Harrisburg/Lancaster/York,electrician,4,880,"$3,520",14,18
+Harrisburg/Lancaster/York,house_cleaner,4,221,$884,4,16
+Harrisburg/Lancaster/York,lawn_care,3,216,$648,1,12
+Harrisburg/Lancaster/York,pest_control,0,0,$0,1,23
+Harrisburg/Lancaster/York,roofer,1,250,$250,0,29
+Hartford-New Haven,lawn_care,3,1484,"$4,452",1,14
+Hartford-New Haven,plumber,15,2181,"$32,715",98,24
+Hartford-New Haven,pest_control,1,210,$210,0,35
+Hartford-New Haven,garage_door_pro,5,504,"$2,520",25,26
+Hartford-New Haven,electrician,7,971,"$6,797",35,15
+Hartford-New Haven,house_cleaner,8,123,$984,20,17
+Hartford-New Haven,roofer,19,252,"$4,788",28,35
+Hartford-New Haven,hvac,12,517,"$6,204",45,29
+Hartford-New Haven,locksmith,2,3408,"$6,816",75,12
+Hartford-New Haven,carpet_cleaning,3,238,$714,1,21
+Hartford-New Haven,tree_service,3,70,$210,4,17
+Hartford-New Haven,water_damage,4,3061,"$12,244",0,38
+Hartford-New Haven,window_cleaner,2,123,$246,0,0
+Hartford-New Haven,mover,1,925,$925,0,46
+Houston,hvac,102,2652,"$270,504",260,25
+Houston,garage_door_pro,22,3293,"$72,446",201,24
+Houston,plumber,34,4173,"$141,882",481,25
+Houston,roofer,35,656,"$22,960",96,35
+Houston,pest_control,24,4800,"$115,200",275,39
+Houston,appliance_repair,5,2004,"$10,020",232,26
+Houston,electrician,19,1619,"$30,761",173,18
+Houston,carpet_cleaning,15,1436,"$21,540",105,22
+Houston,locksmith,23,5447,"$125,281",1471,10
+Houston,car_repair,1,1008,"$1,008",0,0
+Houston,house_cleaner,28,36498,"$1,021,944",225,21
+Houston,mover,13,1098,"$14,274",349,34
+Houston,window_cleaner,13,916,"$11,908",32,12
+Houston,tree_service,3,620,"$1,860",51,22
+Houston,water_damage,12,1950,"$23,400",7,129
+Houston,lawn_care,4,1355,"$5,420",0,14
+Houston,window_repair,2,677,"$1,354",0,0
+Huntsville-Decatur,carpet_cleaning,1,1008,"$1,008",0,0
+Huntsville-Decatur,appliance_repair,1,290,$290,0,0
+Huntsville-Decatur,hvac,7,902,"$6,314",34,29
+Huntsville-Decatur,plumber,1,100,$100,3,22
+Huntsville-Decatur,roofer,3,1947,"$5,841",22,29
+Huntsville-Decatur,lawn_care,1,0,$0,0,0
+Indianapolis,hvac,26,39867,"$1,036,542",76,29
+Indianapolis,plumber,33,1432,"$47,256",284,29
+Indianapolis,garage_door_pro,5,2230,"$11,150",61,19
+Indianapolis,house_cleaner,4,540,"$2,160",32,16
+Indianapolis,electrician,5,233,"$1,165",45,18
+Indianapolis,painter,1,100,$100,0,0
+Indianapolis,carpet_cleaning,4,528,"$2,112",33,20
+Indianapolis,locksmith,1,50,$50,153,10
+Indianapolis,roofer,14,455,"$6,370",52,29
+Indianapolis,water_damage,1,325,$325,1,75
+Indianapolis,window_cleaner,3,20,$60,0,0
+Jacksonville,hvac,25,1471,"$36,775",98,31
+Jacksonville,plumber,6,3809,"$22,854",151,18
+Jacksonville,mover,7,1213,"$8,491",97,46
+Jacksonville,carpet_cleaning,4,162,$648,21,22
+Jacksonville,locksmith,8,253426,"$2,027,408",313,13
+Jacksonville,garage_door_pro,5,500,"$2,500",76,28
+Jacksonville,house_cleaner,6,166822,"$1,000,932",56,17
+Jacksonville,electrician,2,178,$356,57,15
+Jacksonville,roofer,8,669,"$5,352",50,29
+Jacksonville,lawn_care,5,200,"$1,000",4,12
+Jacksonville,pest_control,2,375,$750,0,0
+Jacksonville,window_repair,1,208,$208,0,0
+Kansas City,electrician,10,274,"$2,740",69,19
+Kansas City,hvac,48,21928,"$1,052,544",105,28
+Kansas City,carpet_cleaning,6,333687,"$2,002,122",50,23
+Kansas City,roofer,7,1133,"$7,931",28,35
+Kansas City,plumber,18,2321,"$41,778",225,22
+Kansas City,house_cleaner,12,333391,"$4,000,692",86,16
+Kansas City,garage_door_pro,8,126669,"$1,013,352",65,30
+Kansas City,locksmith,2,358,$716,4,12
+Kansas City,lawn_care,5,83,$415,11,12
+Kansas City,window_cleaner,1,69,$69,0,0
+Kansas City,pest_control,1,10000,"$10,000",0,35
+Kansas City,tree_service,1,60,$60,0,0
+Knoxville,hvac,12,791,"$9,492",37,33
+Knoxville,electrician,4,194,$776,16,16
+Knoxville,plumber,5,2825,"$14,125",59,25
+Knoxville,house_cleaner,1,50,$50,1,14
+Knoxville,roofer,6,487,"$2,922",19,29
+Las Vegas,carpet_cleaning,11,924,"$10,164",95,26
+Las Vegas,hvac,31,2230,"$69,130",101,26
+Las Vegas,locksmith,16,12652,"$202,432",578,13
+Las Vegas,garage_door_pro,14,1786,"$25,004",92,12
+Las Vegas,house_cleaner,9,132,"$1,188",91,18
+Las Vegas,pest_control,12,2348,"$28,176",86,38
+Las Vegas,plumber,15,4277,"$64,155",194,28
+Las Vegas,mover,7,1398,"$9,786",106,32
+Las Vegas,water_damage,1,50,$50,0,0
+Las Vegas,air_duct_cleaner,1,50,$50,0,0
+Las Vegas,handyman,1,50,$50,0,0
+Las Vegas,electrician,4,238,$952,35,14
+Las Vegas,lawn_care,1,0,$0,0,0
+Lexington,hvac,9,1574,"$14,166",44,24
+Lexington,house_cleaner,1,200,$200,1,14
+Lexington,plumber,1,325,$325,0,23
+Little Rock,hvac,8,455,"$3,640",40,22
+Little Rock,plumber,1,1000,"$1,000",0,20
+Little Rock,roofer,1,87,$87,2,29
+Little Rock,lawn_care,1,0,$0,0,0
+Louisville,hvac,17,624,"$10,608",57,29
+Louisville,plumber,7,1293,"$9,051",154,28
+Louisville,roofer,6,651,"$3,906",52,40
+Louisville,garage_door_pro,2,500,"$1,000",22,16
+Louisville,electrician,3,873,"$2,619",44,20
+Louisville,house_cleaner,4,117,$468,14,14
+Louisville,window_cleaner,1,0,$0,0,0
+Madison,hvac,10,296,"$2,960",17,22
+Madison,house_cleaner,3,185,$555,14,14
+Madison,plumber,2,1250,"$2,500",6,18
+Madison,electrician,3,1365,"$4,095",17,13
+Madison,roofer,2,303,$606,6,29
+Madison,window_cleaner,1,92,$92,0,0
+Madison,appliance_repair,1,104,$104,0,0
+Memphis,house_cleaner,1,144,$144,23,14
+Memphis,carpet_cleaning,2,1258,"$2,516",1,18
+Memphis,hvac,8,3105,"$24,840",43,29
+Memphis,plumber,7,5729,"$40,103",127,33
+Memphis,roofer,1,120,$120,3,40
+Miami,hvac,70,2689,"$188,230",314,25
+Miami,locksmith,41,38331,"$1,571,571",1310,10
+Miami,plumber,22,4157,"$91,454",385,25
+Miami,mover,29,1492,"$43,268",217,33
+Miami,garage_door_pro,11,1317,"$14,487",88,22
+Miami,electrician,14,1012,"$14,168",127,16
+Miami,pest_control,18,5164,"$92,952",247,39
+Miami,house_cleaner,16,187925,"$3,006,800",166,22
+Miami,tree_service,13,217,"$2,821",51,17
+Miami,carpet_cleaning,21,2243,"$47,103",101,26
+Miami,water_damage,29,4424,"$128,296",12,95
+Miami,roofer,10,883,"$8,830",82,40
+Miami,lawn_care,6,1336,"$8,016",0,0
+Miami,window_repair,1,100,$100,7,28
+Miami,window_cleaner,4,944,"$3,776",0,0
+Milwaukee,hvac,23,2989,"$68,747",58,29
+Milwaukee,carpet_cleaning,3,87,$261,12,15
+Milwaukee,house_cleaner,2,40,$80,35,16
+Milwaukee,electrician,2,571,"$1,142",16,19
+Milwaukee,plumber,5,2348,"$11,740",79,25
+Milwaukee,garage_door_pro,3,2000,"$6,000",46,19
+Milwaukee,lawn_care,2,128,$256,5,13
+Milwaukee,roofer,6,386,"$2,316",20,48
+Milwaukee,water_damage,2,5038,"$10,076",0,0
+Minneapolis-St. Paul,hvac,33,1581,"$52,173",98,24
+Minneapolis-St. Paul,garage_door_pro,14,2538,"$35,532",131,12
+Minneapolis-St. Paul,house_cleaner,18,476,"$8,568",79,20
+Minneapolis-St. Paul,roofer,18,505,"$9,090",26,40
+Minneapolis-St. Paul,locksmith,16,74626,"$1,194,016",581,10
+Minneapolis-St. Paul,water_damage,12,4786,"$57,432",4,90
+Minneapolis-St. Paul,carpet_cleaning,17,2617,"$44,489",50,26
+Minneapolis-St. Paul,mover,6,606,"$3,636",46,45
+Minneapolis-St. Paul,electrician,10,824,"$8,240",109,14
+Minneapolis-St. Paul,plumber,25,3528,"$88,200",348,23
+Minneapolis-St. Paul,lawn_care,6,155,$930,13,19
+Minneapolis-St. Paul,tree_service,5,686,"$3,430",29,28
+Minneapolis-St. Paul,car_repair,1,190,$190,0,0
+Minneapolis-St. Paul,window_cleaner,13,2065,"$26,845",15,17
+Minneapolis-St. Paul,appliance_repair,3,225,$675,21,23
+Minneapolis-St. Paul,pest_control,6,4008,"$24,048",56,34
+Mobile-Pensacola,house_cleaner,6,346,"$2,076",40,16
+Mobile-Pensacola,hvac,13,518,"$6,734",52,28
+Mobile-Pensacola,electrician,1,100,$100,13,15
+Mobile-Pensacola,carpet_cleaning,3,192,$576,28,18
+Mobile-Pensacola,plumber,1,228,$228,4,19
+Mobile-Pensacola,window_cleaner,3,48,$144,0,0
+Mobile-Pensacola,roofer,1,105,$105,2,29
+Mobile-Pensacola,lawn_care,1,0,$0,0,0
+Monterey-Salinas,house_cleaner,2,350,$700,15,16
+Monterey-Salinas,plumber,1,10000,"$10,000",0,0
+Monterey-Salinas,electrician,1,0,$0,2,20
+"Myrtle Beach, SC",hvac,4,2749,"$10,996",19,22
+"Myrtle Beach, SC",lawn_care,2,0,$0,0,0
+Nashville,carpet_cleaning,13,1214,"$15,782",36,25
+Nashville,locksmith,4,319,"$1,276",232,10
+Nashville,electrician,7,1188,"$8,316",66,16
+Nashville,hvac,29,1213,"$35,177",112,26
+Nashville,plumber,19,1552,"$29,488",181,23
+Nashville,mover,3,2218,"$6,654",47,45
+Nashville,house_cleaner,11,232,"$2,552",85,16
+Nashville,tree_service,4,497,"$1,988",14,20
+Nashville,pest_control,4,7880,"$31,520",2,38
+Nashville,lawn_care,7,294,"$2,058",35,13
+Nashville,window_cleaner,1,1120,"$1,120",0,0
+Nashville,roofer,10,576,"$5,760",30,29
+New Orleans,house_cleaner,4,300,"$1,200",32,14
+New Orleans,electrician,3,420,"$1,260",26,19
+New Orleans,plumber,6,2852,"$17,112",107,25
+New Orleans,hvac,17,407,"$6,919",45,28
+New Orleans,roofer,2,105,$210,0,0
+New Orleans,lawn_care,2,0,$0,0,0
+New Orleans,window_cleaner,1,0,$0,0,0
+New York,mover,35,1463,"$51,205",364,46
+New York,carpet_cleaning,52,28294,"$1,471,288",284,26
+New York,pest_control,58,2500,"$145,000",490,35
+New York,hvac,110,1241,"$136,510",268,24
+New York,locksmith,50,125361,"$6,268,050",934,14
+New York,water_damage,59,26104,"$1,540,136",32,80
+New York,plumber,82,2893,"$237,226",911,24
+New York,roofer,34,939,"$31,926",68,35
+New York,house_cleaner,38,1251,"$47,538",305,22
+New York,garage_door_pro,31,2206,"$68,386",184,24
+New York,electrician,34,680,"$23,120",225,18
+New York,window_repair,13,1005,"$13,065",23,28
+New York,upholstery_cleaner,2,4125,"$8,250",0,0
+New York,air_duct_cleaner,2,125,$250,0,0
+New York,window_cleaner,12,174,"$2,088",17,11
+New York,lawn_care,5,68,$340,0,0
+Norfolk,hvac,17,2083,"$35,411",78,35
+Norfolk,electrician,6,1497,"$8,982",46,23
+Norfolk,carpet_cleaning,9,876,"$7,884",76,23
+Norfolk,locksmith,2,675,"$1,350",197,13
+Norfolk,garage_door_pro,1,500,$500,0,0
+Norfolk,lawn_care,4,261,"$1,044",16,12
+Norfolk,roofer,12,601,"$7,212",34,35
+Norfolk,plumber,10,4741,"$47,410",145,35
+Norfolk,house_cleaner,5,309,"$1,545",47,16
+Norfolk,air_duct_cleaner,1,4140,"$4,140",0,0
+Norfolk,pest_control,4,7625,"$30,500",3,32
+Norfolk,window_cleaner,3,82,$246,0,0
+Norfolk,tree_service,1,132,$132,0,0
+Oklahoma City,plumber,12,925,"$11,100",140,23
+Oklahoma City,electrician,6,1720,"$10,320",43,14
+Oklahoma City,garage_door_pro,10,2680,"$26,800",86,20
+Oklahoma City,carpet_cleaning,5,461,"$2,305",57,17
+Oklahoma City,hvac,28,1147,"$32,116",87,29
+Oklahoma City,house_cleaner,7,247,"$1,729",49,16
+Oklahoma City,locksmith,3,7700,"$23,100",405,12
+Oklahoma City,pest_control,6,5162,"$30,972",73,38
+Oklahoma City,roofer,9,583,"$5,247",48,29
+Oklahoma City,lawn_care,1,0,$0,0,0
+Omaha,plumber,8,4429,"$35,432",101,22
+Omaha,hvac,10,1594,"$15,940",29,31
+Omaha,roofer,8,192,"$1,536",10,29
+Orlando,hvac,53,1270,"$67,310",176,25
+Orlando,house_cleaner,13,462,"$6,006",111,20
+Orlando,plumber,23,2435,"$56,005",306,25
+Orlando,roofer,9,857,"$7,713",28,50
+Orlando,mover,7,1014,"$7,098",100,43
+Orlando,electrician,12,2036,"$24,432",92,15
+Orlando,locksmith,15,2525,"$37,875",537,12
+Orlando,garage_door_pro,11,1156,"$12,716",117,12
+Orlando,pest_control,19,4104,"$77,976",117,38
+Orlando,carpet_cleaning,9,318,"$2,862",45,26
+Orlando,tree_service,2,2650,"$5,300",19,17
+Orlando,lawn_care,4,1375,"$5,500",13,17
+Orlando,water_damage,6,5833,"$34,998",8,90
+Orlando,appliance_repair,1,150,$150,18,16
+Orlando,window_repair,2,350,$700,0,0
+Orlando,window_cleaner,2,0,$0,0,0
+Palm Springs,plumber,3,3333,"$9,999",52,35
+Palm Springs,hvac,15,2272,"$34,080",38,33
+Palm Springs,electrician,1,700,$700,14,23
+Palm Springs,house_cleaner,1,110,$110,1,22
+Palm Springs,pest_control,1,10000,"$10,000",1,30
+Palm Springs,lawn_care,1,0,$0,0,0
+Philadelphia,house_cleaner,36,289,"$10,404",149,17
+Philadelphia,carpet_cleaning,25,538,"$13,450",89,19
+Philadelphia,hvac,93,11812,"$1,098,516",249,23
+Philadelphia,electrician,30,2138,"$64,140",196,14
+Philadelphia,upholstery_cleaner,3,1683,"$5,049",0,0
+Philadelphia,roofer,32,1158,"$37,056",100,36
+Philadelphia,plumber,64,11654,"$745,856",588,22
+Philadelphia,tree_service,5,282,"$1,410",21,28
+Philadelphia,locksmith,23,1502,"$34,546",1108,5
+Philadelphia,pest_control,26,2799,"$72,774",284,34
+Philadelphia,water_damage,30,2884,"$86,520",16,65
+Philadelphia,mover,6,302,"$1,812",41,36
+Philadelphia,garage_door_pro,17,39460,"$670,820",87,12
+Philadelphia,appliance_repair,8,710,"$5,680",101,19
+Philadelphia,window_repair,10,1014,"$10,140",46,24
+Philadelphia,lawn_care,6,256,"$1,536",7,16
+Philadelphia,junk_removal,1,250,$250,0,0
+Philadelphia,air_duct_cleaner,2,240,$480,0,0
+Philadelphia,window_cleaner,2,57,$114,0,0
+Phoenix,house_cleaner,18,55746,"$1,003,428",146,22
+Phoenix,window_cleaner,5,244,"$1,220",17,16
+Phoenix,carpet_cleaning,14,538,"$7,532",99,26
+Phoenix,hvac,94,8349,"$784,806",215,26
+Phoenix,plumber,63,26586,"$1,674,918",440,24
+Phoenix,pest_control,32,33390,"$1,068,480",302,40
+Phoenix,electrician,35,3433,"$120,155",138,13
+Phoenix,locksmith,26,232121,"$6,035,146",1019,10
+Phoenix,garage_door_pro,23,436928,"$10,049,344",203,18
+Phoenix,roofer,2,253,$506,8,35
+Phoenix,mover,10,1270,"$12,700",195,39
+Phoenix,tree_service,2,302,$604,31,28
+Phoenix,water_damage,5,1208,"$6,040",13,95
+Phoenix,lawn_care,3,0,$0,0,0
+Pittsburgh,garage_door_pro,9,639,"$5,751",39,12
+Pittsburgh,upholstery_cleaner,1,230,$230,0,0
+Pittsburgh,air_duct_cleaner,1,230,$230,0,0
+Pittsburgh,carpet_cleaning,4,236,$944,12,24
+Pittsburgh,hvac,30,4121,"$123,630",36,22
+Pittsburgh,house_cleaner,9,316,"$2,844",46,22
+Pittsburgh,roofer,6,553,"$3,318",19,29
+Pittsburgh,plumber,15,8956,"$134,340",129,20
+Pittsburgh,locksmith,1,2026,"$2,026",83,10
+Pittsburgh,electrician,7,14597,"$102,179",32,14
+Pittsburgh,tree_service,1,350,$350,20,15
+Pittsburgh,water_damage,1,418,$418,0,0
+Portland,roofer,14,2085,"$29,190",49,29
+Portland,garage_door_pro,17,1863,"$31,671",58,12
+Portland,hvac,42,1696,"$71,232",113,22
+Portland,plumber,13,1626,"$21,138",211,20
+Portland,upholstery_cleaner,1,75,$75,0,0
+Portland,carpet_cleaning,9,282,"$2,538",37,24
+Portland,house_cleaner,11,172,"$1,892",64,18
+Portland,mover,4,2133,"$8,532",82,33
+Portland,locksmith,9,113683,"$1,023,147",352,10
+Portland,window_cleaner,9,412,"$3,708",27,19
+Portland,pest_control,9,1551,"$13,959",88,34
+Portland,electrician,3,256,$768,40,14
+Portland,lawn_care,1,0,$0,0,0
+"Portland, ME",hvac,1,100,$100,1,22
+"Portland, ME",house_cleaner,1,54,$54,0,14
+"Portland, ME",window_cleaner,1,54,$54,0,0
+"Portland, ME",locksmith,1,50,$50,0,0
+"Providence, RI",hvac,5,182,$910,13,22
+"Providence, RI",plumber,3,3377,"$10,131",23,22
+"Providence, RI",window_repair,1,500,$500,0,0
+"Providence, RI",roofer,8,316,"$2,528",15,35
+"Providence, RI",carpet_cleaning,2,282,$564,3,21
+"Providence, RI",locksmith,1,100,$100,0,0
+"Providence, RI",pest_control,1,10000,"$10,000",9,26
+Raleigh-Durham,hvac,35,1282,"$44,870",101,31
+Raleigh-Durham,garage_door_pro,8,3296,"$26,368",62,34
+Raleigh-Durham,house_cleaner,11,469,"$5,159",64,18
+Raleigh-Durham,lawn_care,4,89,$356,18,15
+Raleigh-Durham,plumber,20,2963,"$59,260",194,26
+Raleigh-Durham,electrician,11,2032,"$22,352",62,25
+Raleigh-Durham,carpet_cleaning,6,429,"$2,574",23,25
+Raleigh-Durham,pest_control,7,5923,"$41,461",3,35
+Raleigh-Durham,roofer,5,569,"$2,845",22,35
+Raleigh-Durham,window_cleaner,1,0,$0,0,0
+Reno,carpet_cleaning,2,112,$224,8,14
+Reno,house_cleaner,2,109,$218,0,18
+Reno,hvac,1,300,$300,12,22
+Reno,lawn_care,1,0,$0,0,0
+Reno,window_cleaner,1,0,$0,0,0
+Richmond,house_cleaner,14,400,"$5,600",37,14
+Richmond,electrician,4,163,$652,28,16
+Richmond,hvac,8,1468,"$11,744",38,26
+Richmond,plumber,7,1628,"$11,396",75,26
+Richmond,locksmith,1,50,$50,1,10
+Rochester,plumber,7,2027,"$14,189",55,22
+Rochester,hvac,8,811,"$6,488",21,22
+Rochester,electrician,4,398,"$1,592",10,20
+Rochester,garage_door_pro,1,500,$500,14,18
+Rochester,roofer,2,105,$210,0,0
+Rochester,window_cleaner,1,0,$0,0,0
+Sacramento,plumber,26,1439,"$37,414",222,23
+Sacramento,hvac,43,1028,"$44,204",68,25
+Sacramento,pest_control,15,2401,"$36,015",105,40
+Sacramento,roofer,9,520,"$4,680",44,29
+Sacramento,general_contractor,12,285,"$3,420",18,0
+Sacramento,handyman,11,720,"$7,920",59,0
+Sacramento,garage_door_pro,11,16460,"$181,060",83,24
+Sacramento,house_cleaner,4,233,$932,22,19
+Sacramento,carpet_cleaning,6,892,"$5,352",71,22
+Sacramento,electrician,6,933,"$5,598",52,15
+Sacramento,locksmith,10,2072,"$20,720",432,12
+Sacramento,windshield_repair_pro,2,1560,"$3,120",234,0
+Sacramento,painter,5,50,$250,25,0
+Sacramento,window_repair,1,4500,"$4,500",0,0
+Sacramento,window_cleaner,2,120,$240,18,16
+Sacramento,mover,1,2400,"$2,400",0,0
+Sacramento,lawn_care,1,0,$0,0,0
+Salt Lake City,garage_door_pro,7,2554,"$17,878",88,21
+Salt Lake City,hvac,43,3078,"$132,354",93,33
+Salt Lake City,plumber,23,11384,"$261,832",289,33
+Salt Lake City,carpet_cleaning,8,272,"$2,176",58,23
+Salt Lake City,house_cleaner,4,114,$456,30,18
+Salt Lake City,roofer,4,286,"$1,144",33,40
+Salt Lake City,electrician,10,4357,"$43,570",76,20
+Salt Lake City,locksmith,12,145224,"$1,742,688",500,13
+Salt Lake City,pest_control,7,3369,"$23,583",77,36
+Salt Lake City,water_damage,3,636,"$1,908",0,0
+Salt Lake City,mover,2,338,$676,12,45
+Salt Lake City,lawn_care,1,0,$0,0,0
+San Antonio,hvac,39,27648,"$1,078,272",125,25
+San Antonio,appliance_repair,5,1179,"$5,895",72,25
+San Antonio,electrician,11,3073,"$33,803",68,16
+San Antonio,plumber,19,55958,"$1,063,202",243,25
+San Antonio,carpet_cleaning,5,140,$700,27,26
+San Antonio,pest_control,10,2947,"$29,470",79,34
+San Antonio,mover,4,1422,"$5,688",140,39
+San Antonio,garage_door_pro,4,326,"$1,304",83,12
+San Antonio,locksmith,4,2150,"$8,600",379,10
+San Antonio,house_cleaner,1,75,$75,12,18
+San Antonio,roofer,15,699,"$10,485",38,35
+San Antonio,tree_service,2,815,"$1,630",25,21
+San Antonio,lawn_care,2,25,$50,0,0
+San Antonio,window_cleaner,3,0,$0,0,0
+San Bernardino/Riverside,hvac,49,1835,"$89,915",171,25
+San Bernardino/Riverside,garage_door_pro,7,144490,"$1,011,430",88,24
+San Bernardino/Riverside,pest_control,10,25093,"$250,930",197,39
+San Bernardino/Riverside,electrician,7,2997,"$20,979",88,15
+San Bernardino/Riverside,window_cleaner,2,200,$400,0,0
+San Bernardino/Riverside,plumber,35,3717,"$130,095",448,23
+San Bernardino/Riverside,carpet_cleaning,18,648,"$11,664",95,18
+San Bernardino/Riverside,locksmith,1,5000,"$5,000",185,10
+San Bernardino/Riverside,house_cleaner,2,83,$166,14,22
+San Bernardino/Riverside,roofer,2,550,"$1,100",26,29
+San Bernardino/Riverside,air_duct_cleaner,2,100,$200,0,0
+San Bernardino/Riverside,water_damage,4,5267,"$21,068",4,129
+San Bernardino/Riverside,mover,1,5940,"$5,940",6,33
+San Diego,tree_service,7,193,"$1,351",39,22
+San Diego,photographer,11,61,$671,29,12
+San Diego,pest_control,11,3458,"$38,038",148,35
+San Diego,windshield_repair_pro,1,144,$144,228,6
+San Diego,window_repair,7,804,"$5,628",34,23
+San Diego,electrician,11,17276,"$190,036",60,15
+San Diego,hvac,36,2993,"$107,748",86,25
+San Diego,plumber,41,27106,"$1,111,346",351,23
+San Diego,garage_door_pro,20,151499,"$3,029,980",102,24
+San Diego,carpet_cleaning,22,1030,"$22,660",86,17
+San Diego,appliance_repair,4,986,"$3,944",94,22
+San Diego,locksmith,17,9498,"$161,466",606,10
+San Diego,junk_removal,1,850,$850,27,21
+San Diego,roofer,4,169,$676,17,32
+San Diego,house_cleaner,14,396,"$5,544",87,19
+San Diego,pet_grooming,7,190,"$1,330",73,8
+San Diego,pet_boarding,8,306,"$2,448",62,10
+San Diego,water_damage,11,3005,"$33,055",9,90
+San Diego,upholstery_cleaner,1,50,$50,0,0
+San Diego,car_repair,6,304,"$1,824",42,24
+San Diego,event_planner,4,50,$200,5,15
+San Diego,mover,6,779,"$4,674",106,37
+San Diego,window_cleaner,9,187,"$1,683",16,20
+Savannah,house_cleaner,1,256,$256,1,16
+Savannah,hvac,7,2347,"$16,429",47,29
+Savannah,plumber,0,0,$0,24,19
+Savannah,roofer,2,105,$210,0,0
+Seattle,carpet_cleaning,17,604,"$10,268",86,23
+Seattle,hvac,49,2226,"$109,074",140,24
+Seattle,house_cleaner,19,52918,"$1,005,442",98,22
+Seattle,electrician,21,3647,"$76,587",111,13
+Seattle,mover,7,598,"$4,186",104,33
+Seattle,plumber,45,3747,"$168,615",361,28
+Seattle,pest_control,12,2973,"$35,676",134,40
+Seattle,tree_service,2,1604,"$3,208",25,28
+Seattle,garage_door_pro,23,49605,"$1,140,915",106,12
+Seattle,locksmith,19,55223,"$1,049,237",514,5
+Seattle,roofer,17,494,"$8,398",54,40
+Seattle,window_cleaner,10,159,"$1,590",24,12
+Seattle,window_repair,1,200,$200,0,0
+Seattle,water_damage,8,7631,"$61,048",6,109
+Seattle,lawn_care,3,0,$0,0,0
+SF Bay Area,locksmith,30,3858,"$115,740",1042,12
+SF Bay Area,general_contractor,19,158442,"$3,010,398",38,0
+SF Bay Area,handyman,21,48316,"$1,014,636",132,0
+SF Bay Area,painter,14,50,$700,72,0
+SF Bay Area,electrician,16,522,"$8,352",124,15
+SF Bay Area,house_cleaner,28,713,"$19,964",189,19
+SF Bay Area,mover,12,1089,"$13,068",124,33
+SF Bay Area,carpet_cleaning,7,612,"$4,284",68,25
+SF Bay Area,windshield_repair_pro,9,100,$900,289,6
+SF Bay Area,plumber,57,2385,"$135,945",719,23
+SF Bay Area,hvac,36,29218,"$1,051,848",148,25
+SF Bay Area,garage_door_pro,21,1466,"$30,786",181,24
+SF Bay Area,appliance_repair,5,630,"$3,150",149,20
+SF Bay Area,window_cleaner,2,30,$60,0,0
+SF Bay Area,pest_control,11,5885,"$64,735",170,39
+SF Bay Area,towing_pro,7,303,"$2,121",160,12
+SF Bay Area,roofer,6,147,$882,17,26
+SF Bay Area,water_damage,6,8534,"$51,204",3,80
+South Bend,electrician,1,1000,"$1,000",0,0
+South Bend,hvac,4,385,"$1,540",17,22
+South Bend,plumber,1,110,$110,0,0
+South Bend,window_cleaner,1,0,$0,0,0
+Spokane,carpet_cleaning,2,200,$400,0,0
+Spokane,hvac,5,264,"$1,320",26,28
+Spokane,house_cleaner,4,142,$568,15,14
+Spokane,plumber,7,1688,"$11,816",81,21
+Spokane,electrician,3,1533,"$4,599",10,25
+Spokane,window_cleaner,2,83,$166,0,14
+Spokane,lawn_care,1,0,$0,0,0
+"Springfield, MO",hvac,6,156,$936,17,22
+"Springfield, MO",plumber,2,1110,"$2,220",29,21
+"Springfield, MO",electrician,2,150,$300,8,13
+"Springfield, MO",locksmith,1,250,$250,0,0
+St. Louis,hvac,37,1289,"$47,693",78,24
+St. Louis,house_cleaner,7,194,"$1,358",34,18
+St. Louis,carpet_cleaning,19,177,"$3,363",49,18
+St. Louis,air_duct_cleaner,1,400,$400,0,0
+St. Louis,locksmith,7,287586,"$2,013,102",370,11
+St. Louis,plumber,19,3769,"$71,611",226,20
+St. Louis,garage_door_pro,5,436,"$2,180",57,12
+St. Louis,roofer,16,581,"$9,296",48,29
+St. Louis,electrician,11,2316,"$25,476",60,18
+St. Louis,tree_service,2,135,$270,8,18
+St. Louis,pest_control,6,3629,"$21,774",38,35
+St. Louis,window_cleaner,1,200,$200,0,0
+St. Louis,lawn_care,2,0,$0,0,13
+Stockton,hvac,11,182915,"$2,012,065",25,25
+Stockton,plumber,7,1100,"$7,700",113,23
+Stockton,mover,1,240,$240,1,37
+Stockton,pest_control,1,1000,"$1,000",0,40
+Stockton,windshield_repair_pro,0,0,$0,2,0
+Syracuse,hvac,1,242,$242,0,0
+Syracuse,pest_control,1,3220,"$3,220",0,19
+Tampa,locksmith,16,2412,"$38,592",545,12
+Tampa,plumber,33,32761,"$1,081,113",291,28
+Tampa,hvac,94,12205,"$1,147,270",231,26
+Tampa,tree_service,3,245,$735,23,19
+Tampa,carpet_cleaning,18,393,"$7,074",71,18
+Tampa,house_cleaner,25,160201,"$4,005,025",147,18
+Tampa,garage_door_pro,14,1617,"$22,638",109,12
+Tampa,electrician,26,1135,"$29,510",162,18
+Tampa,lawn_care,9,216,"$1,944",39,17
+Tampa,appliance_repair,6,1359,"$8,154",101,25
+Tampa,window_repair,5,686,"$3,430",29,30
+Tampa,window_cleaner,7,268,"$1,876",0,0
+Tampa,pest_control,27,2538,"$68,526",178,38
+Tampa,roofer,15,595,"$8,925",70,40
+Tampa,water_damage,13,4065,"$52,845",10,139
+Tampa,mover,5,381,"$1,905",65,39
+Toledo,house_cleaner,1,140,$140,0,14
+Toledo,plumber,5,195,$975,55,18
+Toledo,hvac,2,160,$320,9,22
+Toledo,roofer,1,147,$147,0,0
+Toronto,plumber,23,4593,"$105,639",154,30
+Toronto,hvac,22,1751,"$38,522",93,30
+Toronto,locksmith,12,3054,"$36,648",247,14
+Tucson,hvac,10,4573,"$45,730",71,31
+Tucson,plumber,8,1499,"$11,992",78,32
+Tucson,water_damage,1,500,$500,0,0
+Tucson,carpet_cleaning,2,370,$740,21,22
+Tucson,house_cleaner,1,80,$80,0,14
+Tucson,lawn_care,2,0,$0,0,0
+Tulsa,plumber,9,5068,"$45,612",165,24
+Tulsa,appliance_repair,1,2640,"$2,640",0,0
+Tulsa,hvac,23,3141,"$72,243",76,29
+Tulsa,electrician,7,2183,"$15,281",30,17
+Tulsa,house_cleaner,2,252,$504,11,21
+Tulsa,roofer,7,928,"$6,496",33,29
+Tulsa,lawn_care,1,289,$289,0,0
+Tulsa,pest_control,3,10000,"$30,000",0,35
+"Tyler-Longview, TX",hvac,8,878,"$7,024",24,22
+"Tyler-Longview, TX",roofer,1,128,$128,1,14
+Vancouver,hvac,7,29264,"$204,848",33,27
+Vancouver,locksmith,4,290,"$1,160",84,14
+Vancouver,plumber,9,1772,"$15,948",98,28
+"Washington, DC",plumber,36,3708,"$133,488",322,25
+"Washington, DC",hvac,49,1594,"$78,106",126,25
+"Washington, DC",electrician,18,1105,"$19,890",92,18
+"Washington, DC",house_cleaner,33,578,"$19,074",157,22
+"Washington, DC",carpet_cleaning,21,1200,"$25,200",65,24
+"Washington, DC",mover,16,765,"$12,240",142,36
+"Washington, DC",locksmith,25,40616,"$1,015,400",692,14
+"Washington, DC",pest_control,17,5314,"$90,338",102,36
+"Washington, DC",garage_door_pro,8,1760,"$14,080",49,24
+"Washington, DC",appliance_repair,5,1431,"$7,155",49,26
+"Washington, DC",roofer,18,685,"$12,330",49,40
+"Washington, DC",water_damage,12,3597,"$43,164",6,129
+"Washington, DC",window_repair,1,1120,"$1,120",0,0
+"Washington, DC",lawn_care,1,112,$112,0,0
+"Washington, DC",window_cleaner,2,100,$200,0,0
+"West Palm Beach, FL",mover,5,1029,"$5,145",0,48
+"West Palm Beach, FL",house_cleaner,5,319,"$1,595",0,24
+"West Palm Beach, FL",pest_control,3,5759,"$17,277",1,40
+"West Palm Beach, FL",lawn_care,3,2464,"$7,392",0,0
+"West Palm Beach, FL",plumber,11,5225,"$57,475",2,35
+"West Palm Beach, FL",roofer,1,100,$100,1,37
+"West Palm Beach, FL",hvac,34,3094,"$105,196",62,25
+"West Palm Beach, FL",electrician,4,1545,"$6,180",0,30
+"West Palm Beach, FL",water_damage,6,2230,"$13,380",0,107
+"West Palm Beach, FL",carpet_cleaning,4,3007,"$12,028",1,32
+"West Palm Beach, FL",garage_door_pro,4,1835,"$7,340",3,33
+"West Palm Beach, FL",locksmith,5,3400,"$17,000",1,12
+"West Palm Beach, FL",window_repair,2,150,$300,2,0
+Wichita,house_cleaner,1,160,$160,1,17
+Wichita,plumber,4,308,"$1,232",23,21
+Wichita,hvac,10,1720,"$17,200",30,24
+Wichita,electrician,1,144,$144,10,18
